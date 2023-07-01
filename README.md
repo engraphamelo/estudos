@@ -1,2 +1,3 @@
 # estudos
-Aprendendo o básico de pandas para manipular BDs e extrair informações úteis.
+Aprendendo o básico de Python para Data Science.
+Este é um ambiente de coleção do aprendizado.
